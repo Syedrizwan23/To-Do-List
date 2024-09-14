@@ -1,2 +1,2 @@
 # To-Do-List
-A Fromt end To DO list website
+A Front-end To DO list website
